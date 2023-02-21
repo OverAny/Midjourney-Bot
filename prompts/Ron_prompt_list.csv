@@ -1,0 +1,230 @@
+0,A sweet strawberry or a sour lemon- only render sweet things,p1_1_v0.0.5_pd230208.png
+1,A soft blanket or a hard bench- only render soft objects,p2_1_v0.0.5_pd230208.png
+2,A soft towel or a cabinet- only render furniture,p3_1_v0.0.5_pd230208.png
+3,A white carpet or a hard floor- only render hard surfaces,p4_1_v0.0.5_pd230208.png
+4,A white mug or a black pen- only render white objects,p5_1_v0.0.5_pd230208.png
+5,A tall building or a short fence- only render tall structures,p6_1_v0.0.5_pd230208.png
+6,A white snowflake or a black crow- only render white objects,p7_1_v0.0.5_pd230208.png
+7,A gold ring or a wooden table- only render metal things,p8_1_v0.0.5_pd230208.png
+8,A large house or a small chair  - only render large objects,p9_1_v0.0.5_pd230208.png
+9,A jar or a squirrel- only render containers,p10_1_v0.0.5_pd230208.png
+100,three hair driers and twice as many bears,p101_1_v0.0.5_pd230208.png
+101,three cats and twice as many cakes,p102_1_v0.0.5_pd230208.png
+102,three spoons and twice as many benches,p103_1_v0.0.5_pd230208.png
+103,three chairs and twice as many dogs,p104_1_v0.0.5_pd230208.png
+104,three keyboards and twice as many kites,p105_1_v0.0.5_pd230208.png
+105,three airplanes and twice as many cell phones,p106_1_v0.0.5_pd230208.png
+106,three skateboards and twice as many teddy bears,p107_1_v0.0.5_pd230208.png
+107,three sheep and twice as many refrigerators,p108_1_v0.0.5_pd230208.png
+108,three baseball gloves and twice as many bowls,p109_1_v0.0.5_pd230208.png
+109,three benches and twice as many refrigerators,p110_1_v0.0.5_pd230208.png
+200,a kitchen without any utensils,p201_1_v0.0.5_pd230208.png
+201,a bedroom without any furniture,p202_1_v0.0.5_pd230208.png
+202,a desert without any cacti,p203_1_v0.0.5_pd230208.png
+203,a garden without any grass,p204_1_v0.0.5_pd230208.png
+204,a room with no furniture,p205_1_v0.0.5_pd230208.png
+205,a cave without any bats,p206_1_v0.0.5_pd230208.png
+206,a garden with no flowers,p207_1_v0.0.5_pd230208.png
+207,an ocean with no boats,p208_1_v0.0.5_pd230208.png
+208,a city with no cars,p209_1_v0.0.5_pd230208.png
+209,a street without any pedestrians,p210_1_v0.0.5_pd230208.png
+300,Goat looking at a bag,p301_1_v0.0.5_pd230208.png
+301,Albatross looking at a water bottle,p302_1_v0.0.5_pd230208.png
+302,Beaver touching a pen,p303_1_v0.0.5_pd230208.png
+303,Cat biting a pen,p304_1_v0.0.5_pd230208.png
+304,Skunk looking at a book,p305_1_v0.0.5_pd230208.png
+305,Wallaby poking a hat,p306_1_v0.0.5_pd230208.png
+306,Swan sitting on a watch,p307_1_v0.0.5_pd230208.png
+307,Seagull looking at a hat,p308_1_v0.0.5_pd230208.png
+308,Cow eating a flower,p309_1_v0.0.5_pd230208.png
+309,Wombat kicking a chair,p310_1_v0.0.5_pd230208.png
+400,a teddy bear on top of a zebra,p401_1_v0.0.5_pd230208.png
+401,a spoon on top of a clock,p402_1_v0.0.5_pd230208.png
+402,a bench on top of a tennis racket,p403_1_v0.0.5_pd230208.png
+403,a truck on top of a wine glass,p404_1_v0.0.5_pd230208.png
+404,an orange on top of a cow,p405_1_v0.0.5_pd230208.png
+405,an apple on top of a toothbrush,p406_1_v0.0.5_pd230208.png
+406,a dining table on top of a toothbrush,p407_1_v0.0.5_pd230208.png
+407,a skateboard on top of a keyboard,p408_1_v0.0.5_pd230208.png
+408,an orange on top of an umbrella,p409_1_v0.0.5_pd230208.png
+409,a snowboard on top of a spoon,p410_1_v0.0.5_pd230208.png
+500,a keyboard laying on a deer,p501_1_v0.0.5_pd230208.png
+501,a bear hugging a bus,p502_1_v0.0.5_pd230208.png
+502,a giraffe wearing a scarf,p503_1_v0.0.5_pd230208.png
+503,a raccoon riding a crocodile,p504_1_v0.0.5_pd230208.png
+504,a snake using a watering can,p505_1_v0.0.5_pd230208.png
+505,a rabbit lifting a car,p506_1_v0.0.5_pd230208.png
+506,a dolphin riding a remote control,p507_1_v0.0.5_pd230208.png
+507,a turtle bending a toothbrush,p508_1_v0.0.5_pd230208.png
+508,a bus wearing a tutu,p509_1_v0.0.5_pd230208.png
+509,a telescope sitting on a panda,p510_1_v0.0.5_pd230208.png
+600,A horse with a yellow saddle,p601_1_v0.0.5_pd230208.png
+601,A spider with white legs,p602_1_v0.0.5_pd230208.png
+602,A clock with golden hands,p603_1_v0.0.5_pd230208.png
+603,A chair with a wooden seat,p604_1_v0.0.5_pd230208.png
+604,A cup with a blue design,p605_1_v0.0.5_pd230208.png
+605,A car with a black spoiler,p606_1_v0.0.5_pd230208.png
+606,A car with golden wheels,p607_1_v0.0.5_pd230208.png
+607,A butterfly with red wings,p608_1_v0.0.5_pd230208.png
+608,A dragon with yellow tail,p609_1_v0.0.5_pd230208.png
+609,A cat with yellow eyes,p610_1_v0.0.5_pd230208.png
+700,a rabbit with the antlers of a moose,p701_1_v0.0.5_pd230208.png
+701,a horse with the tail of a lion,p702_1_v0.0.5_pd230208.png
+702,a skunk with the wings of a dragon,p703_1_v0.0.5_pd230208.png
+703,a wolf with the tusks of a walrus,p704_1_v0.0.5_pd230208.png
+704,a coyote with the fur of a polar bear,p705_1_v0.0.5_pd230208.png
+705,a horse with the scales of a dragon,p706_1_v0.0.5_pd230208.png
+706,a deer with the wings of an eagle,p707_1_v0.0.5_pd230208.png
+707,a gorilla with the antlers of a deer,p708_1_v0.0.5_pd230208.png
+708,a horse with the fur of a tiger,p709_1_v0.0.5_pd230208.png
+709,a raccoon with the wings of a falcon,p710_1_v0.0.5_pd230208.png
+800,two chairs,p801_1_v0.0.5_pd230208.png
+801,two boats,p802_1_v0.0.5_pd230208.png
+802,two cars,p803_1_v0.0.5_pd230208.png
+803,two busses,p804_1_v0.0.5_pd230208.png
+804,two vases,p805_1_v0.0.5_pd230208.png
+805,two hats,p806_1_v0.0.5_pd230208.png
+806,two beds,p807_1_v0.0.5_pd230208.png
+807,two cats,p808_1_v0.0.5_pd230208.png
+808,two knives,p809_1_v0.0.5_pd230208.png
+809,three bottles,p810_1_v0.0.5_pd230208.png
+900,"A billboard advertising ""Explore the Great Barrier Reef""",p901_1_v0.0.5_pd230208.png
+901,"A menu at a restaurant that has the dish ""Beef Wellington"" listed",p902_1_v0.0.5_pd230208.png
+902,"A newspaper with the headline ""First woman elected President"" written on it",p903_1_v0.0.5_pd230208.png
+903,"A map with the legend ""North, South, East, West"" written on it",p904_1_v0.0.5_pd230208.png
+904,"A menu at a restaurant that has the dish ""Sushi"" listed",p905_1_v0.0.5_pd230208.png
+905,"A train with the destination ""Grand Central Station"" written on the front",p906_1_v0.0.5_pd230208.png
+906,"A book with the title ""Moby-Dick"" written on the cover",p907_1_v0.0.5_pd230208.png
+907,"A menu at a restaurant that has the dish ""Spaghetti Carbonara"" listed",p908_1_v0.0.5_pd230208.png
+908,"A laptop with a sticker that says ""Microsoft Windows 10""",p909_1_v0.0.5_pd230208.png
+909,"A plane with the destination ""London Heathrow Airport"" written on the front",p910_1_v0.0.5_pd230208.png
+1200,"toothbrush, sink",p1201_1_v0.0.5_pd230208.png
+1201,"fork, conditioner",p1202_1_v0.0.5_pd230208.png
+1202,"orange, apple",p1203_1_v0.0.5_pd230208.png
+1203,"doorknob, goat",p1204_1_v0.0.5_pd230208.png
+1204,"bowl, juicer",p1205_1_v0.0.5_pd230208.png
+1205,"chalk, pan",p1206_1_v0.0.5_pd230208.png
+1206,"cheese, mouse",p1207_1_v0.0.5_pd230208.png
+1207,"brick, microwave",p1208_1_v0.0.5_pd230208.png
+1208,"scissors, hair",p1209_1_v0.0.5_pd230208.png
+1209,"basketball, watch",p1210_1_v0.0.5_pd230208.png
+1800,strawberry,p1801_1_v0.0.5_pd230208.png
+1801,blanket,p1802_1_v0.0.5_pd230208.png
+1802,cabinet,p1803_1_v0.0.5_pd230208.png
+1803,carpet,p1804_1_v0.0.5_pd230208.png
+1804,mug,p1805_1_v0.0.5_pd230208.png
+1805,building,p1806_1_v0.0.5_pd230208.png
+1806,snowflake,p1807_1_v0.0.5_pd230208.png
+1807,ring,p1808_1_v0.0.5_pd230208.png
+1808,house,p1809_1_v0.0.5_pd230208.png
+1809,jar,p1810_1_v0.0.5_pd230208.png
+1812,toothbrush,p1813_1_v0.0.5_pd230208.png
+1813,boat,p1814_1_v0.0.5_pd230208.png
+1818,ocean,p1819_1_v0.0.5_pd230208.png
+1823,sheep,p1824_1_v0.0.5_pd230208.png
+1824,apple,p1825_1_v0.0.5_pd230208.png
+1825,car,p1826_1_v0.0.5_pd230208.png
+1835,knife,p1836_1_v0.0.5_pd230208.png
+1838,snake,p1839_1_v0.0.5_pd230208.png
+1842,spider,p1843_1_v0.0.5_pd230208.png
+1845,dog,p1846_1_v0.0.5_pd230208.png
+1846,cat,p1847_1_v0.0.5_pd230208.png
+1855,gorilla,p1856_1_v0.0.5_pd230208.png
+1857,mouse,p1858_1_v0.0.5_pd230208.png
+1858,butterfly,p1859_1_v0.0.5_pd230208.png
+1859,brick,p1860_1_v0.0.5_pd230208.png
+1860,spoon,p1861_1_v0.0.5_pd230208.png
+1861,dragon,p1862_1_v0.0.5_pd230208.png
+1864,giraffe,p1865_1_v0.0.5_pd230208.png
+1865,swan,p1866_1_v0.0.5_pd230208.png
+1868,fork,p1869_1_v0.0.5_pd230208.png
+1874,clock,p1875_1_v0.0.5_pd230208.png
+1882,bus,p1883_1_v0.0.5_pd230208.png
+1883,scarf,p1884_1_v0.0.5_pd230208.png
+1884,cup,p1885_1_v0.0.5_pd230208.png
+1888,cow,p1889_1_v0.0.5_pd230208.png
+1889,hair drier,p1890_1_v0.0.5_pd230208.png
+1890,bear,p1891_1_v0.0.5_pd230208.png
+1891,cake,p1892_1_v0.0.5_pd230208.png
+1892,bench,p1893_1_v0.0.5_pd230208.png
+1893,chair,p1894_1_v0.0.5_pd230208.png
+1894,keyboard,p1895_1_v0.0.5_pd230208.png
+1895,kite,p1896_1_v0.0.5_pd230208.png
+1896,airplane,p1897_1_v0.0.5_pd230208.png
+1897,cell phone,p1898_1_v0.0.5_pd230208.png
+1898,skateboard,p1899_1_v0.0.5_pd230208.png
+1899,teddy bear,p1900_1_v0.0.5_pd230208.png
+1900,refrigerator,p1901_1_v0.0.5_pd230208.png
+1901,baseball glove,p1902_1_v0.0.5_pd230208.png
+1902,bowl,p1903_1_v0.0.5_pd230208.png
+1903,zebra,p1904_1_v0.0.5_pd230208.png
+1904,sink,p1905_1_v0.0.5_pd230208.png
+1906,umbrella,p1907_1_v0.0.5_pd230208.png
+1908,scissors,p1909_1_v0.0.5_pd230208.png
+1909,microwave,p1910_1_v0.0.5_pd230208.png
+1911,train,p1912_1_v0.0.5_pd230208.png
+1914,snowboard,p1915_1_v0.0.5_pd230208.png
+1917,truck,p1918_1_v0.0.5_pd230208.png
+1919,dining table,p1920_1_v0.0.5_pd230208.png
+1923,book,p1924_1_v0.0.5_pd230208.png
+1931,wine glass,p1932_1_v0.0.5_pd230208.png
+1933,bottle,p1934_1_v0.0.5_pd230208.png
+1934,laptop,p1935_1_v0.0.5_pd230208.png
+1937,bed,p1938_1_v0.0.5_pd230208.png
+1939,tennis racket,p1940_1_v0.0.5_pd230208.png
+1942,vase,p1943_1_v0.0.5_pd230208.png
+1943,kitchen,p1944_1_v0.0.5_pd230208.png
+1944,bedroom,p1945_1_v0.0.5_pd230208.png
+1945,desert,p1946_1_v0.0.5_pd230208.png
+1946,garden,p1947_1_v0.0.5_pd230208.png
+1947,room,p1948_1_v0.0.5_pd230208.png
+1948,cave,p1949_1_v0.0.5_pd230208.png
+1949,city,p1950_1_v0.0.5_pd230208.png
+1950,street,p1951_1_v0.0.5_pd230208.png
+1985,flower,p1986_1_v0.0.5_pd230208.png
+1994,goat,p1995_1_v0.0.5_pd230208.png
+1995,bag,p1996_1_v0.0.5_pd230208.png
+1996,albatross,p1997_1_v0.0.5_pd230208.png
+1997,water bottle,p1998_1_v0.0.5_pd230208.png
+1998,beaver,p1999_1_v0.0.5_pd230208.png
+1999,pen,p2000_1_v0.0.5_pd230208.png
+2000,skunk,p2001_1_v0.0.5_pd230208.png
+2001,wallaby,p2002_1_v0.0.5_pd230208.png
+2002,hat,p2003_1_v0.0.5_pd230208.png
+2003,watch,p2004_1_v0.0.5_pd230208.png
+2004,seagull,p2005_1_v0.0.5_pd230208.png
+2005,wombat,p2006_1_v0.0.5_pd230208.png
+2012,deer,p2013_1_v0.0.5_pd230208.png
+2018,moose,p2019_1_v0.0.5_pd230208.png
+2020,falcon,p2021_1_v0.0.5_pd230208.png
+2025,raccoon,p2026_1_v0.0.5_pd230208.png
+2027,eagle,p2028_1_v0.0.5_pd230208.png
+2044,orange,p2045_1_v0.0.5_pd230208.png
+2047,horse,p2048_1_v0.0.5_pd230208.png
+2049,crocodile,p2050_1_v0.0.5_pd230208.png
+2050,watering can,p2051_1_v0.0.5_pd230208.png
+2051,rabbit,p2052_1_v0.0.5_pd230208.png
+2052,dolphin,p2053_1_v0.0.5_pd230208.png
+2053,remote control,p2054_1_v0.0.5_pd230208.png
+2054,turtle,p2055_1_v0.0.5_pd230208.png
+2055,tutu,p2056_1_v0.0.5_pd230208.png
+2056,telescope,p2057_1_v0.0.5_pd230208.png
+2057,panda,p2058_1_v0.0.5_pd230208.png
+2072,lion,p2073_1_v0.0.5_pd230208.png
+2076,tiger,p2077_1_v0.0.5_pd230208.png
+2102,plane,p2103_1_v0.0.5_pd230208.png
+2126,wolf walrus,p2127_1_v0.0.5_pd230208.png
+2127,coyote,p2128_1_v0.0.5_pd230208.png
+2128,polar bear,p2129_1_v0.0.5_pd230208.png
+2146,billboard,p2147_1_v0.0.5_pd230208.png
+2147,menu,p2148_1_v0.0.5_pd230208.png
+2148,newspaper,p2149_1_v0.0.5_pd230208.png
+2149,map,p2150_1_v0.0.5_pd230208.png
+2174,conditioner,p2175_1_v0.0.5_pd230208.png
+2175,doorknob,p2176_1_v0.0.5_pd230208.png
+2176,juicer,p2177_1_v0.0.5_pd230208.png
+2177,chalk,p2178_1_v0.0.5_pd230208.png
+2178,pan,p2179_1_v0.0.5_pd230208.png
+2179,cheese,p2180_1_v0.0.5_pd230208.png
+2180,hair,p2181_1_v0.0.5_pd230208.png
+2181,basketball,p2182_1_v0.0.5_pd230208.png
