@@ -88,4 +88,4 @@ async def invite(ctx):
     invembed.add_field(name="My Invite Link", value = "[Invite](https://discordapp.com/oauth2/authorize?client_id=BOT_ID_HERE&scope=bot&permissions=8)", inline=False)
     await ctx.send(embed=invembed)
 
-client.run('MTA3MjY1OTI0MzM4OTQzNjAxNw.GCtqoE.dpOelp8iJNKo9vtWhvfGxd8svFgX-6eoswhN_k')
+client.run('MTA3MjY1OTI0MzM4OTQzNjAxNw.G-g4-d.C-5IWLMnhB3k_4jMbkrLi_I-gSdrQqAJFdp1ww')
